@@ -1,0 +1,48 @@
+# Secrets — never commit these
+.env
+.env.local
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipython/
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Data and models — too big, and often not yours to redistribute
+data/*
+!data/.gitkeep
+!data/README.md
+!data/sample*
+*.csv
+!data/sample*.csv
+*.parquet
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.gguf
+*.safetensors
+
+# Vector stores and run output
+chroma/
+.chroma/
+*.sqlite3
+runs/
+wandb/
+mlruns/
+outputs/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

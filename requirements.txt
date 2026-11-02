@@ -1,0 +1,21 @@
+# Week 1: data and first models
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyterlab
+
+# Week 2: deep learning (Colab already has torch — install locally only if you need it)
+# torch
+# torchvision
+
+# Week 3: generative AI and retrieval
+python-dotenv
+chromadb
+streamlit
+
+# Week 4: service and agent
+fastapi
+uvicorn
+
+# Pin versions once your project works. "It worked last week" is not reproducible.
