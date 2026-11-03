@@ -68,6 +68,12 @@ The day-by-day plan is in [docs/week-plan.md](docs/week-plan.md). Your tickets a
 Dnyx Learn; the full assignment briefs are in
 [AI-Assignments](https://github.com/dnyxacademy/AI-Assignments).
 
+**Not chosen a domain yet?** Five worked-through domains — education, agriculture, insurance,
+retail and health — are in [project-ideas](https://github.com/dnyxacademy/project-ideas), each
+naming a prediction task, the documents to pair with it, and three agent tools. Read
+[ai/README.md](https://github.com/dnyxacademy/project-ideas/blob/main/ai/README.md) first: you need
+**a dataset and a document set**, and finding only one of the two is how Week 3 goes wrong.
+
 ## Free tiers only
 
 Nothing in this programme needs a paid account.
